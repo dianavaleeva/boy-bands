@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Boy bands quiz</string>
+    <string name="question_1">1. Let\'s start with terminology. Which of these are actually boy bands?</string>
+    <string name="question_2">2. And what is the best-selling boy band ever?</string>
+    <string name="question_3">3. We are warming up! Who are these guys?</string>
+    <string name="question_4">4. Some of them started a solo career later. Mark the singers whose successful career also began in a boy band.</string>
+    <string name="question_5">5. Success of this band turned to infamy when it was revealed that none of the vocals heard on their music releases actually had belonged to them. What band is it?</string>
+    <string name="question_6">6. Otherwise, this British band write their songs themselves.</string>
+    <string name="question_7">7. Time for some math! Sum the numbers contained in these bands\' names.</string>
+    <string name="question_7_hint">Answer</string>
+    <string name="submit">Submit and see the right answers</string>
+
+    <string name="five">5ive</string>
+    <string name="a1">A1</string>
+    <string name="backstreet_boys">Backstreet Boys</string>
+    <string name="blue">Blue</string>
+    <string name="boys_2_men">Boyz II Men</string>
+    <string name="boyzone">Boyzone</string>
+    <string name="degrees">98 Degrees</string>
+    <string name="east17">East 17</string>
+    <string name="hanson">Hanson</string>
+    <string name="milli_vanilli">Milli Vanilli</string>
+    <string name="new_kids_on_the_block">New Kids on the Block</string>
+    <string name="no_mercy">No Mercy</string>
+    <string name="nsync">*NSYNC</string>
+    <string name="one_direction">One Direction</string>
+    <string name="osmonds">The Osmonds</string>
+    <string name="pentatonix">Pentatonix</string>
+    <string name="take_that">Take That</string>
+    <string name="tlc">TLC</string>
+    <string name="westlife">Westlife</string>
+    <string name="wham">Wham!</string>
+
+    <string name="enrique_iglesias">Enrique Iglesias</string>
+    <string name="george_michael">George Michael</string>
+    <string name="jay_z">Jay-Z</string>
+    <string name="justin_bieber">Justin Bieber</string>
+    <string name="michael_jackson">Michael Jackson</string>
+    <string name="robbie_williams">Robbie Williams</string>
+
+    <string name="answer_7">104 = 5(ive) + 98(degrees) + (A)1</string>
+
+    <string name="description_nsync">5 young men, one of them is Justin Timberlake</string>
+    <string name="description_five">5 young men in leather, one of them holding an award</string>
+    <string name="description_98">4 young men, one of them with a "98" tattoo</string>
+    <string name="description_a1">4 young men in white</string>
+
+    <string name="low_score">\ out of 12!\nWell, it\'s just not your kind of music</string>
+    <string name="medium_score">\ out of 12\nYou\'re not a fan, but you\'re in the know</string>
+    <string name="high_score">\ out of 12\nYou are an expert!</string>
+</resources>
